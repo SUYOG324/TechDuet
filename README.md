@@ -1,4 +1,4 @@
-# apnacollege-demo
-this is my first repo 
+# Flipkart 
+this about flipkart database   
 <br>
 Author - suyog 
